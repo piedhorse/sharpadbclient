@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SharpAdbClient.Tests
+build_property.ProjectDir = C:\Users\umut-murat\Desktop\madb-master\SharpAdbClient.Tests\

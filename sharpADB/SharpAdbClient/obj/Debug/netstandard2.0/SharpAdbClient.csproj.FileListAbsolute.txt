@@ -1,0 +1,11 @@
+C:\Users\umut-murat\Desktop\madb-master\SharpAdbClient\bin\Debug\netstandard2.0\SharpAdbClient.deps.json
+C:\Users\umut-murat\Desktop\madb-master\SharpAdbClient\bin\Debug\netstandard2.0\SharpAdbClient.dll
+C:\Users\umut-murat\Desktop\madb-master\SharpAdbClient\bin\Debug\netstandard2.0\SharpAdbClient.pdb
+C:\Users\umut-murat\Desktop\madb-master\SharpAdbClient\obj\Debug\netstandard2.0\SharpAdbClient.csproj.AssemblyReference.cache
+C:\Users\umut-murat\Desktop\madb-master\SharpAdbClient\obj\Debug\netstandard2.0\SharpAdbClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut-murat\Desktop\madb-master\SharpAdbClient\obj\Debug\netstandard2.0\SharpAdbClient.AssemblyInfoInputs.cache
+C:\Users\umut-murat\Desktop\madb-master\SharpAdbClient\obj\Debug\netstandard2.0\SharpAdbClient.AssemblyInfo.cs
+C:\Users\umut-murat\Desktop\madb-master\SharpAdbClient\obj\Debug\netstandard2.0\SharpAdbClient.csproj.CoreCompileInputs.cache
+C:\Users\umut-murat\Desktop\madb-master\SharpAdbClient\obj\Debug\netstandard2.0\SharpAdbClient.sourcelink.json
+C:\Users\umut-murat\Desktop\madb-master\SharpAdbClient\obj\Debug\netstandard2.0\SharpAdbClient.dll
+C:\Users\umut-murat\Desktop\madb-master\SharpAdbClient\obj\Debug\netstandard2.0\SharpAdbClient.pdb

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "HhqyeNz4loP6wBxMb3HHGF/uWNVJuQtUiSqb+GfjpgNPL3ftE6/XIdduQE16pSqpm1YzrRCKr5HHJKH7pY1Iew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\umut-murat\\Desktop\\madb-master\\SharpAdbClient\\SharpAdbClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\umut-murat\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\umut-murat\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\umut-murat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\umut-murat\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\umut-murat\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512",
+    "C:\\Users\\umut-murat\\.nuget\\packages\\nerdbank.gitversioning\\3.1.91\\nerdbank.gitversioning.3.1.91.nupkg.sha512",
+    "C:\\Users\\umut-murat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\umut-murat\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\umut-murat\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
